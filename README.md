@@ -24,7 +24,6 @@ This application is built using Streamlit and deployed for seamless user interac
 
 ## How to Run
 ```bash
-git clone https://github.com/your-repo/ai-nexus.git
-cd ai-nexus
+git clone https://github.com/21lakshh/AI-Nexus.git
 pip install -r requirements.txt
 streamlit run app.py
