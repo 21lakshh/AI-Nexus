@@ -1,6 +1,6 @@
 # AI Nexus
 
-AI Nexus is a multi-functional chatbot offering Smart Chat, Image Insight, Knowledge Query, and Code Helper features. It is deployed as a Streamlit web application and leverages the Gemini 1.5 Pro model via the Gemini API.
+AI Nexus is a multi-functional chatbot offering Smart Chat assistant, Image Insight, Knowledge Query, and Code Helper features. It is deployed as a Streamlit web application and leverages the Gemini 1.5 Pro model via the Gemini API.
 
 ## Features
 - **Smart Chat:** Engage in interactive conversations with AI.
