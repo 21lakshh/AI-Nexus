@@ -21,10 +21,6 @@ This application is built using Streamlit and deployed for seamless user interac
 ![Code Helper](images/image2.png)
 ![Image Insight](images/image3.png)
 
-## Future Enhancements
-- Integration with more AI models
-- Advanced customization settings
-- Multi-language support
 
 ## How to Run
 ```bash
